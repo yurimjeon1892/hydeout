@@ -6,6 +6,8 @@ layout: page
   {{ content }}
 {% endunless %}
 
+<p style="border-bottom: double"></p>
+
 <!-- <ul class="posts-list">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
@@ -20,7 +22,7 @@ layout: page
   {% endfor %}
 </ul> -->
 
-<ul class="posts-list"></ul>
+<div class="posts-list">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
 
@@ -55,4 +57,4 @@ layout: page
   </article>
     
   {% endfor %}
-</ul>
+</div>

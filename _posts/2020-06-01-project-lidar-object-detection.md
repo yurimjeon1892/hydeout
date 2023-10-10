@@ -2,6 +2,7 @@
 layout: post
 title: Development of real-time object detection module using LiDAR sensor
 categories: Project
+excerpt: This project focuses on developing a deep learning-based object detection algorithm using LiDAR for autonomous vehicles driving in urban environments. As the project lead, I actively participated in the entire process, starting from designing the deep learning model to implementing the source code for execution in a ROS environment.
 # excerpt_separator:  <!--more-->
 ---
 

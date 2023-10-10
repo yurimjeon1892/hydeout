@@ -2,6 +2,7 @@
 layout: post
 title: Development of perception system for unmanned vehicles in off-road scenarios
 categories: Project
+excerpt: This project aims to develop the perception system for unmanned vehicles in off-road scenarios.
 # excerpt_separator:  <!--more-->
 ---
 

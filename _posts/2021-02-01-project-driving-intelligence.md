@@ -2,6 +2,7 @@
 layout: post
 title: Research on human-level driving intelligence for autonomous driving of unmanned vehicles
 categories: Project
+excerpt: This project studies driving intelligence that mimics human perception systems. During urban driving, human drivers encounter a vast amount of data, including other vehicles, pedestrians, motorcycles, traffic lights, and traffic signs. Humans selectively process the relevant data for driving.
 # tags:
 #   - Government project
 #   - Seoul national university

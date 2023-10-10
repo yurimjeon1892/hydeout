@@ -2,6 +2,7 @@
 layout: post
 title: Development of automatic labeling tool for autonomous driving dataset generation
 categories: Project
+excerpt: This project aims to develop an auto-labeling tool that effectively reduces human labor costs by automating the labeling process.
 # excerpt_separator:  <!--more-->
 ---
 
