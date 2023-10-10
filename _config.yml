@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Yurim Jeon, Ph.D.
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Ph.D. in Electrical and Computer Engineering'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,12 +15,12 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Yurim Jeon'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+#                     Or '/blog/page:num' if you want to move your index pages
 
 plugins:
   - jekyll-feed
