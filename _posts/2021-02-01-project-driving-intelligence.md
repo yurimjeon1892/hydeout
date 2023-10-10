@@ -8,8 +8,6 @@ categories: Project
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- <style>body {text-align: justify}</style> -->
-
 **Government project, Seoul national university**
 
 This project studies driving intelligence that mimics human perception systems. During urban driving, human drivers encounter a vast amount of data, including other vehicles, pedestrians, motorcycles, traffic lights, and traffic signs. Humans selectively process the relevant data for driving.

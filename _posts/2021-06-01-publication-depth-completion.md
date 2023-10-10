@@ -5,7 +5,14 @@ categories: Publication
 # excerpt_separator:  <!--more-->
 ---
 
-[<img src="https://img.youtube.com/vi/29uWojsPU4A/sddefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/29uWojsPU4A)
+<!-- [<img src="https://img.youtube.com/vi/29uWojsPU4A/sddefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/29uWojsPU4A) -->
+<div align="center">
+    <iframe width="720" height="405"
+    src="https://www.youtube.com/embed/29uWojsPU4A" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
 
 [**Paper**](https://ieeexplore.ieee.org/document/9565353) / [**Code**](https://github.com/yurimjeon1892/ABCD.git) / [**Video**](https://youtu.be/29uWojsPU4A)
 

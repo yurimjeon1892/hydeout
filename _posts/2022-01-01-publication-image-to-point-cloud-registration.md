@@ -5,7 +5,14 @@ categories: Publication
 # excerpt_separator:  <!--more-->
 ---
 
-[<img src="https://img.youtube.com/vi/Xo7GRKyvKuo/maxresdefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/Xo7GRKyvKuo)
+<!-- [<img src="https://img.youtube.com/vi/Xo7GRKyvKuo/maxresdefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/Xo7GRKyvKuo) -->
+<div align="center">
+    <iframe width="720" height="405"
+    src="https://www.youtube.com/embed/Xo7GRKyvKuo" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
 
 [**Paper**](https://ieeexplore.ieee.org/document/9799751) / [**Code**](https://github.com/yurimjeon1892/EFGH.git) / [**Video**](https://youtu.be/Xo7GRKyvKuo)
 

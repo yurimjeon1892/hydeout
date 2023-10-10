@@ -41,7 +41,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: underline;
+    text-decoration: wavy underline;
+    text-decoration-color: #f59e0b;
   }
 
   strong {
@@ -72,7 +73,7 @@ th {
 }
 
 th {
-  text-align: justify;
+  text-align: left;
 }
 
 tbody tr:nth-child(odd) td,

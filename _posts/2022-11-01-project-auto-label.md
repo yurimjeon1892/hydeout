@@ -5,8 +5,6 @@ categories: Project
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- <style>body {text-align: justify}</style> -->
-
 **Thordrive**
 
 This project aims to develop an auto-labeling tool that effectively reduces human labor costs by automating the labeling process.

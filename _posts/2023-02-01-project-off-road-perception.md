@@ -2,13 +2,8 @@
 layout: post
 title: Development of perception system for unmanned vehicles in off-road scenarios
 categories: Project
-# tags:
-#   - Government project
-#   - Seoul national university
 # excerpt_separator:  <!--more-->
 ---
-
-<!-- <style>body {text-align: justify}</style> -->
 
 **Government project, Seoul national university**
 

@@ -106,7 +106,7 @@ body {
 .home #sidebar {
 
   // Center sidebar content
-  text-align: justify;
+  text-align: center;
 
   // Bigger title
   .site-title {
@@ -256,7 +256,8 @@ body {
 
 #sidebar a:hover,
 #sidebar a:focus {
-  text-decoration: underline;
+  text-decoration: wavy underline;
+  text-decoration-color: #f59e0b;
 
   &.icon {
     text-decoration: none;
@@ -265,6 +266,7 @@ body {
 
 #sidebar a.active {
   font-weight: bold;
+  font-size: larger;
 }
 
 #sidebar .site-title {

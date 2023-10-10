@@ -5,8 +5,6 @@ categories: Project
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- <style>body {text-align: justify}</style> -->
-
 **Industry-academia cooperation project, Seoul national university**
 
 [<img src="https://img.youtube.com/vi/pnsvPiWt4Ss/sddefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/pnsvPiWt4Ss)
