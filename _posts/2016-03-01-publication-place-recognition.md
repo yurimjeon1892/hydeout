@@ -5,7 +5,10 @@ categories: Publication
 # excerpt_separator:  <!--more-->
 ---
 
-![Overview of the proposed method](../../../../_posts/figure/place_recognition_overview.png "Overview")
+<figure>
+    <img src="{{ "/assets/place_recognition_overview.png" | relative_url }}">
+    <figcaption>Architecture Overview</figcaption>
+</figure>
 
 [**Paper**](https://ieeexplore.ieee.org/document/7832506)
 
