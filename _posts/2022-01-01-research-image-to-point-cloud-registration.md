@@ -1,20 +1,40 @@
 ---
 layout: post
 title: "EFGHNet: A Versatile Image-to-Point Cloud Registration Network for Extreme Outdoor Environment"
-categories: Publication
+categories: Research
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- [<img src="https://img.youtube.com/vi/Xo7GRKyvKuo/maxresdefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/Xo7GRKyvKuo) -->
 <div align="center">
-    <iframe width="720" height="405"
-    src="https://www.youtube.com/embed/Xo7GRKyvKuo" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+        <iframe 
+        src="https://www.youtube.com/embed/Xo7GRKyvKuo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
+    </div>
 </div>
 
-[**Paper**](https://ieeexplore.ieee.org/document/9799751) / [**Code**](https://github.com/yurimjeon1892/EFGH.git) / [**Video**](https://youtu.be/Xo7GRKyvKuo)
+<br>
+
+<div class="icon-container">
+    <span class="link-with-icon">
+        <i data-feather="paperclip"></i>
+        <a href="https://ieeexplore.ieee.org/document/9799751" target="_blank">Paper Link</a>
+    </span> 
+    <span class="link-with-icon">
+        <i data-feather="github"></i>
+        <a href="https://github.com/yurimjeon1892/EFGH.git" target="_blank">Code</a>
+    </span> 
+    <span class="link-with-icon">
+        <i data-feather="youtube"></i>
+        <a href="https://youtu.be/Xo7GRKyvKuo" target="_blank">Video</a>
+    </span>    
+</div>
+
+<br>
+
 
 We present an accurate and robust image-to-point cloud registration method that is viable in urban and off-road environments. Existing image-to-point cloud registration methods have focused on vehicle platforms along paved roads. Therefore, image-to-point cloud registration on UGV platforms for off-road driving remains an open question. Our objective is to find a versatile solution for image-to-point cloud registration. 
 

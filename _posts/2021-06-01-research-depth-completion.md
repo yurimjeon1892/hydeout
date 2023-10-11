@@ -1,20 +1,39 @@
 ---
 layout: post
 title: "ABCD: Attentive Bilateral Convolutional Network for Robust Depth Completion"
-categories: Publication
+categories: Research
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- [<img src="https://img.youtube.com/vi/29uWojsPU4A/sddefault.jpg" width="960" height="540"/>](https://www.youtube.com/embed/29uWojsPU4A) -->
 <div align="center">
-    <iframe width="720" height="405"
-    src="https://www.youtube.com/embed/29uWojsPU4A" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+        <iframe 
+        src="https://www.youtube.com/embed/29uWojsPU4A" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
+    </div>
 </div>
 
-[**Paper**](https://ieeexplore.ieee.org/document/9565353) / [**Code**](https://github.com/yurimjeon1892/ABCD.git) / [**Video**](https://youtu.be/29uWojsPU4A)
+<br>
+
+<div class="icon-container">
+    <span class="link-with-icon">
+        <i data-feather="paperclip"></i>
+        <a href="https://ieeexplore.ieee.org/document/9565353" target="_blank">Paper Link</a>
+    </span> 
+    <span class="link-with-icon">
+        <i data-feather="github"></i>
+        <a href="https://github.com/yurimjeon1892/ABCD.git" target="_blank">Code</a>
+    </span> 
+    <span class="link-with-icon">
+        <i data-feather="youtube"></i>
+        <a href="https://youtu.be/29uWojsPU4A" target="_blank">Video</a>
+    </span>    
+</div>
+
+<br>
 
 
 We propose a point-cloud-centric depth completion method called attention bilateral convolutional network for depth completion (ABCD). The proposed method uses LiDAR data and camera data to improve the resolution of the sparse depth information. Color images, which have been seen as fundamental to depth completion tasks, are inevitably sensitive to light and weather conditions. 

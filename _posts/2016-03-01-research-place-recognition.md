@@ -1,16 +1,23 @@
 ---
 layout: post
 title: A BRIEF-Gist Based Efficient Place Recognition for Indoor Home Service Robots
-categories: Publication
+categories: Research
 # excerpt_separator:  <!--more-->
 ---
 
-<figure>
-    <img src="{{ "/assets/place_recognition_overview.png" | relative_url }}">
-    <figcaption>Architecture Overview</figcaption>
+<figure style="text-align: center;">
+    <img src="{{ "/assets/place_recognition_overview.png" | relative_url }}" style="display: block; margin: 0 auto;">
+    <figcaption>Overview</figcaption>
 </figure>
 
-[**Paper**](https://ieeexplore.ieee.org/document/7832506)
+<div class="icon-container">
+    <span class="link-with-icon">
+        <i data-feather="paperclip"></i>
+        <a href="https://ieeexplore.ieee.org/document/7832506" target="_blank">Paper Link</a>
+    </span>    
+</div>
+
+<br>
 
 Visual place recognition has been vastly researched in the last decade. Most of the previous works have concentrated on improvement of performance when the environment changes due to illumination, weather or season at outdoor with abundant features and textures for place recognition. On the other hand, when a robot moves in a home environment, input images sometimes contain less features or textures for place recognition, which in turn degrades the precision and recall performance.  
 
