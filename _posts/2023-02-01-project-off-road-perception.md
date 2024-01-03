@@ -2,7 +2,7 @@
 layout: post
 title: Development of perception system for unmanned vehicles in off-road scenarios
 categories: Project
-excerpt: Autonomous driving on structured urban roads has been widely researched to date. However, unstructured off-road environments present new challenges in autonomous driving research. This project aims to develop a perception system for unmanned robots in off-road scenarios.
+excerpt: Unstructured off-road environments pose new challenges for autonomous driving. This project focuses on developing a perception system for unmanned vehicles in off-road scenarios.
 ---
 
 **Government project, Seoul national university**
@@ -11,11 +11,11 @@ excerpt: Autonomous driving on structured urban roads has been widely researched
     <img src="{{ "/assets/off-road.png" | relative_url }}">
 </figure>
 
-Autonomous driving on structured urban roads has been widely researched to date. However, unstructured off-road environments present new challenges in autonomous driving research. This project aims to develop a perception system for unmanned robots in off-road scenarios.
+Unstructured off-road environments pose new challenges for autonomous driving. This project focuses on developing a perception system for unmanned vehicles in off-road scenarios.
 
-From a perception perspective, off-road environments exhibit the following characteristics:
+Off-road environments have the following characteristics:
 
-* Ambiguous definition of traversable space: In off-road, the driving intelligence must comprehensively consider the given spatial and visual data to distinguish traversable spaces.
-* Environmental variations with seasons: Even in the same area, the environment can look entirely different in lush summer and snowy winter. 
+* Ambiguous definition of traversable space: In off-road scenarios, driving intelligence must consider spatial and visual data comprehensively to distinguish traversable spaces.
+* Environmental changes according to seasons: Even in the same area, the environment can look entirely different in the dense foliage of summer compared to the snow-covered winter.
 
-Taking these features into account, the project team developed a perception system that demonstrates robust performance in off-road driving.
+We have successfully developed perception system to support the safe driving of vehicles in off-road environments, completing unmanned exploration experiments in mountainous terrain.
