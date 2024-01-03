@@ -30,8 +30,8 @@ Hello! I'm Yurim Jeon. My research interests lie in developing robust perception
 
 As a result of my research, I published two papers as the first author in RA-L and presented my work at IROS. 
 
-I am currently employed as a postdoctoral researcher at Seoul National University. Here, my research focuses on developing a perception system for autonomous driving in off-road environments. I lead a project aimed at developing a perception module designed to estimate traversable spaces in off-road settings.
+I am a postdoctoral researcher at Seoul National University. I research a perception system for autonomous driving in off-road environments. Currently, I lead a project estimating traversable spaces in off-road environments.
 
-I also have experience as a deep learning engineer at an autonomous driving company, Thordrive. I specialized in developing deep learning-based multi-sensor object detection modules for autonomous vehicles. Furthermore, I collaborated with the MLOps team to establish and maintain an automated system for managing and operating the machine learning infrastructure that supports perception for autonomous driving.
+I have experience as a deep learning engineer at an autonomous driving company, Thordrive. I developed deep learning-based multi-sensor object detection modules for autonomous vehicles and established/maintained an automatic labeling system for a large-scale object detection dataset.
 
 I completed my M.S. and Ph.D. at the Vehicle Intelligence Laboratory at Seoul National University, Republic of Korea. Before that, I obtained my B.S. in the Department of Electrical and Computer Engineering at Seoul National University.
