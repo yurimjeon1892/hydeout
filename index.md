@@ -21,8 +21,10 @@ title: About Me
 
 <br>
 
-:tada: 
-Tada! My paper _Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues_ was accepted by 2024 IEEE International Conference on Robotics and Automation. See you in Yokohama!
+
+**My paper _Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues_ was accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA 2024). See you in Yokohama!**
+
+
 
 
 Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios. My research topics include:
