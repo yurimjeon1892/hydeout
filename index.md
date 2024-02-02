@@ -22,7 +22,7 @@ title: About Me
 <br>
 
 
-**My paper _Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues_ was accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA 2024). See you in Yokohama!**
+**My paper "Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues" was accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA 2024). See you in Yokohama!**
 
 
 
