@@ -24,20 +24,18 @@ title: About Me
 
 **Update: My paper "Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA 2024). See you in Yokohama!**
 
-
-
+<br>
 
 Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios. My research topics include:
 
-* Image-to-point cloud registration
 * Depth completion
-* Multi-sensor object detection
+* Image-to-point cloud registration
 * Off-road traversability estimation
 
-As a result of my research, I published two papers as the first author in RA-L and presented my work at IROS. 
+As a result of my research, I published several papers in RA-L and presented my work at IROS and ICRA. 
 
-I am a postdoctoral researcher at Seoul National University. I research a perception system for autonomous driving in off-road environments. Currently, I lead a project estimating traversable spaces in off-road environments.
+Currently, I am a research scientist at Thordrive, an autonomous driving company. I develop deep learning-based multi-sensor object detection modules for autonomous vehicles and establish and maintain an automatic labeling system for a large-scale object detection dataset.
 
-I have experience as a deep learning engineer at an autonomous driving company, Thordrive. I developed deep learning-based multi-sensor object detection modules for autonomous vehicles and established/maintained an automatic labeling system for a large-scale object detection dataset.
+Previously, I worked as a postdoctoral researcher at Seoul National University, where I researched perception systems for autonomous driving in off-road environments. I led a project aimed at estimating traversable spaces in off-road environments.
 
 I completed my M.S. and Ph.D. at the Vehicle Intelligence Laboratory at Seoul National University, Republic of Korea. Before that, I obtained my B.S. in the Department of Electrical and Computer Engineering at Seoul National University.
