@@ -5,16 +5,16 @@ categories: Research
 # excerpt_separator:  <!--more-->
 ---
 
-<!-- <div align="center">
+<div align="center">
     <div style="position: relative; padding-bottom: 56.25%; height: 0;">
         <iframe 
-        src="https://www.youtube.com/embed/Xo7GRKyvKuo" 
+        src="https://youtu.be/zZ7iKr001Z4" 
         frameborder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen
         style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
     </div>
-</div> -->
+</div>
 
 <br>
 
@@ -27,10 +27,10 @@ categories: Research
         <i data-feather="github"></i>
         <a href="https://github.com/yurimjeon1892/FtFoot.git" target="_blank">Code</a>
     </span> 
-    <!-- <span class="link-with-icon">
+    <span class="link-with-icon">
         <i data-feather="youtube"></i>
-        <a href="https://youtu.be/Xo7GRKyvKuo" target="_blank">Video</a>
-    </span>     -->
+        <a href="https://youtu.be/zZ7iKr001Z4" target="_blank">Video</a>
+    </span>    
 </div>
 
 <br>
