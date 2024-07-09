@@ -21,9 +21,6 @@ title: About Me
 
 <br>
 
-
-**Update: My paper "Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA 2024). See you in Yokohama!**
-
 <br>
 
 Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios. My research topics include:
@@ -36,6 +33,6 @@ As a result of my research, I published several papers in RA-L and presented my 
 
 Currently, I am a research scientist at Thordrive, an autonomous driving company. I develop deep learning-based multi-sensor object detection modules for autonomous vehicles and establish and maintain an automatic labeling system for a large-scale object detection dataset.
 
-Previously, I worked as a postdoctoral researcher at Seoul National University, where I researched perception systems for autonomous driving in off-road environments. I led a project aimed at estimating traversable spaces in off-road environments.
+Previously, I worked as a postdoctoral researcher at Seoul National University, where I researched perception systems for autonomous driving in off-road environments. I led a project focused on estimating traversable spaces in such environments.
 
 I completed my M.S. and Ph.D. at the Vehicle Intelligence Laboratory at Seoul National University, Republic of Korea. Before that, I obtained my B.S. in the Department of Electrical and Computer Engineering at Seoul National University.
